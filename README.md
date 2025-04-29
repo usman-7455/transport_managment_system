@@ -21,7 +21,7 @@ This is a C++ based Transport Management System designed to manage data related 
 ## How to Run
 
 1. **Open with Visual Studio**:
-   - Double-click `transport_management_system.sln` to open the project in Visual Studio.
+   - Double-click `transport_management_system.vcxproj` to open the project in Visual Studio.
    
 2. **Build the project**:
    - Go to `Build > Build Solution` (or press `Ctrl + Shift + B`).
